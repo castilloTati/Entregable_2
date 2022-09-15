@@ -1,0 +1,25 @@
+body {
+   
+    
+    padding: 10px;
+    position: relative;
+    padding-bottom: 20em;
+    min-height: 100vh;
+    background-color:  wheat; 
+    
+
+}
+
+
+
+.tabla_precios{
+    border: 3px solid black;
+    margin: 5px;
+}
+
+.tabla_precios th{
+    border: 3px solid black; 
+}
+.tabla_precios td{
+    border: 3px solid black;
+}
